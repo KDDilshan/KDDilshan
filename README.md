@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **kdprojects847@gamil.com**
 
-- ⚡ Fun fact **I am a funny guy**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
