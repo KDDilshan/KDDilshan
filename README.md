@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Computer Science student at **NSBM Green University**
+- 🎓 Computer Science student 
 - 🔧 Focused on backend development with **Java**, **Spring Boot**, and **Node.js**
 - 🌱 Currently exploring **TypeScript** and the **Bun runtime**
 - 🛠️ Passionate about building secure, scalable, and maintainable backend systems
