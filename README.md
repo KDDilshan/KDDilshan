@@ -10,10 +10,10 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Computer Science student 
-- 🔧 Focused on backend development with **Java**, **Spring Boot**, and **Node.js**
-- 🌱 Currently exploring **TypeScript** and the **Bun runtime**
-- 🛠️ Passionate about building secure, scalable, and maintainable backend systems
-- 🤝 Open to collaboration on backend-focused projects
+- 🎓 3rd-year CS undergraduate at NSBM  
+- 🛠️ Passionate backend developer | Spring Boot | Node.js | Microservices  
+- 📦 Building real-world projects with Docker, Kafka, PostgreSQL, and more  
+- 🌐 Explore my work below or visit my portfolio
 
 ---
 
